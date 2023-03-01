@@ -35,7 +35,7 @@ Utilitzarem Lucid per crear els següents objectes:
 
 1.persona.
 
-![image](https://user-images.githubusercontent.com/113586080/222082097-8d023d81-b857-4f98-b223-12113ea45d7d.png)
+![image](https://user-images.githubusercontent.com/113586080/222089225-5fff89f0-a18e-4336-ab9f-ed8b4c4d216b.png)
 
 2.llibre.
 
@@ -43,7 +43,7 @@ Utilitzarem Lucid per crear els següents objectes:
 
 3.vehicle.
 
-![image](https://user-images.githubusercontent.com/113586080/222082236-936b0603-fcf9-4491-bc03-f1da90df435c.png)
+![image](https://user-images.githubusercontent.com/113586080/222088633-0c161db4-a2d4-4379-ab0b-4534c9804a76.png)
 
 4.ordinador.
 
@@ -51,3 +51,24 @@ Utilitzarem Lucid per crear els següents objectes:
 
 Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
+Utilitzarem Lucid per crear 5 generalitzacións de classes (subclasse i superclasse):
+
+1.
+
+![image](https://user-images.githubusercontent.com/113586080/222087837-f427bbfe-8746-435a-9076-987cfdff4cb6.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/113586080/222088401-52809af6-6acc-4cb5-af76-10e7f58933bb.png)
+
+3.
+
+![image](https://user-images.githubusercontent.com/113586080/222088728-c03bf65d-ff5e-40da-91a3-a3b51de391e0.png)
+
+4.
+
+![image](https://user-images.githubusercontent.com/113586080/222089034-752e5a8a-0a72-45e5-ab0e-2edf00d3ba91.png)
+
+5.
+
+![image](https://user-images.githubusercontent.com/113586080/222089538-9d6241a9-14d3-45b6-a2d3-4ad1374e8bfe.png)
