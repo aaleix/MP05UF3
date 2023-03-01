@@ -12,7 +12,7 @@ Cerca per Internet i respon a aquestes preguntes.
 
 3.Què és Rational Rose?
 
--Rational Rose és un conjunt d'eines de disseny orientades a objectes.
+-Rational Rose és un conjunt d'eines de disseny orientades a objectes que dona suport de modelatge visual. Permet representar un sistema gràficament.
 
 4.Què té que veure Rational Rose amb UML?
 
