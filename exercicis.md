@@ -29,3 +29,25 @@ Cerca per Internet i respon a aquestes preguntes.
 7.Què té que veure OMG amb UML?
 
 -OMG és el responsable de mantenir UML des de que es va convertir en un estàndar.
+
+
+Utilitzarem Lucid per crear els següents objectes:
+
+1.persona.
+
+
+
+2.llibre.
+
+
+
+3.vehicle.
+
+
+
+4.ordinador.
+
+
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+
