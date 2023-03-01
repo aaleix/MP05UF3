@@ -4,7 +4,7 @@ Cerca per Internet i respon a aquestes preguntes.
 
 1.Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
 
--UML 1.0 (1997), UML 1.1 (1997), UML 1.3 (1998), UML 2.0 (2005).
+-UML 1.0 (1997), UML 1.1 (1997), UML 1.3 (1998), UML 2.0 (2005), UML 2.5.1 (2017).
 
 2.Qui va crear UML?
 
