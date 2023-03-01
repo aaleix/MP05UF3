@@ -24,7 +24,7 @@ Cerca per Internet i respon a aquestes preguntes.
 
 6.Què vol dir OMG?
 
--Object Management Group.
+-Object Management Group. Estandaritzar el Object Model en totes les seves formes.
 
 7.Què té que veure OMG amb UML?
 
