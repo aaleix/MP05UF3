@@ -35,19 +35,19 @@ Utilitzarem Lucid per crear els següents objectes:
 
 1.persona.
 
-![image](https://user-images.githubusercontent.com/113586080/222080645-c6543571-8f21-4a4d-8981-46a426a8fca1.png)
+![image](https://user-images.githubusercontent.com/113586080/222082097-8d023d81-b857-4f98-b223-12113ea45d7d.png)
 
 2.llibre.
 
-![image](https://user-images.githubusercontent.com/113586080/222081014-6d626b14-0aa1-4079-a5c2-36201a501ba6.png)
+![image](https://user-images.githubusercontent.com/113586080/222082180-b6b7751b-466a-4b6c-a88f-13894f6a6cb1.png)
 
 3.vehicle.
 
-![image](https://user-images.githubusercontent.com/113586080/222081367-c0ef1feb-9411-4ff7-a295-c1599b5498f2.png)
+![image](https://user-images.githubusercontent.com/113586080/222082236-936b0603-fcf9-4491-bc03-f1da90df435c.png)
 
 4.ordinador.
 
-![image](https://user-images.githubusercontent.com/113586080/222081736-d826cf84-3e40-42aa-8d43-bd387b8150a9.png)
+![image](https://user-images.githubusercontent.com/113586080/222082302-8711da13-b9fb-4ce6-a0f8-6f2bd0e4d876.png)
 
 Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
