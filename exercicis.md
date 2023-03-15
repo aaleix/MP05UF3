@@ -135,3 +135,8 @@ Activitat
 Utilitzarem Lucid per crear 5 relacions de composició:
 
 ![image](https://user-images.githubusercontent.com/113586080/225248859-3ac12f63-9cc7-4c46-ab73-b9c45db4f41c.png)
+
+Activitat
+Utilitzarem Lucid crea 2 relacions d'associació amb operacions o atributs propis:
+
+![image](https://user-images.githubusercontent.com/113586080/225252062-13d4ddb5-d2b6-4162-b9ae-bb09521f07c9.png)
