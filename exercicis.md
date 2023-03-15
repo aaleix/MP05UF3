@@ -130,3 +130,8 @@ Utilitzarem Lucid per crear una agregació entre:
 5.atletes, equip.
 
 ![image](https://user-images.githubusercontent.com/113586080/225243677-5c79f217-259c-47fe-bf6d-3f509df1d9f7.png)
+
+Activitat
+Utilitzarem Lucid per crear 5 relacions de composició:
+
+![image](https://user-images.githubusercontent.com/113586080/225248859-3ac12f63-9cc7-4c46-ab73-b9c45db4f41c.png)
