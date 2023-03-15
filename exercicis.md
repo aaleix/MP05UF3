@@ -140,3 +140,22 @@ Activitat
 Utilitzarem Lucid crea 2 relacions d'associació amb operacions o atributs propis:
 
 ![image](https://user-images.githubusercontent.com/113586080/225252062-13d4ddb5-d2b6-4162-b9ae-bb09521f07c9.png)
+
+Activitat
+Utilitzarem Lucid i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
+
+1.
+
+![image](https://user-images.githubusercontent.com/113586080/225263035-44456db7-9e1b-43be-893c-cffcce1758a7.png)
+
+![image](https://user-images.githubusercontent.com/113586080/225263099-a3b1da3b-04b9-442a-8e31-b6a78d2fd893.png)
+
+![image](https://user-images.githubusercontent.com/113586080/225263176-8b5ff87b-7120-4c9f-8d85-c4a04d190b24.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/113586080/225263242-d6be1703-bb4d-4d4f-a308-15edad7c6612.png)
+
+![image](https://user-images.githubusercontent.com/113586080/225263296-ab4103d3-7b2f-4e4e-a42b-d62376e33eef.png)
+
+![image](https://user-images.githubusercontent.com/113586080/225263330-ff38115b-fb92-4470-b9f0-a2bcb93fc556.png)
