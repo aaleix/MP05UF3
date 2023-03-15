@@ -107,3 +107,26 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 8.
 
 ![image](https://user-images.githubusercontent.com/113586080/225237403-a0ac54d3-fce3-4a0a-9c5e-be1d3ce2185d.png)
+
+Activitat
+Utilitzarem Lucid per crear una agregació entre:
+
+1.ovelles, corral.
+
+![image](https://user-images.githubusercontent.com/113586080/225243485-7326fcb4-bad1-4b6d-866b-45afb03f90f9.png)
+
+2.animals, zoo.
+
+![image](https://user-images.githubusercontent.com/113586080/225243521-66eab4ec-0049-45b6-b7f3-dbe9aa767789.png)
+
+3.curs, estudiants.
+
+![image](https://user-images.githubusercontent.com/113586080/225243591-cbc8e51d-a7d4-445f-93ee-00fb7ac25187.png)
+
+4.biblioteca, llibres.
+
+![image](https://user-images.githubusercontent.com/113586080/225243642-0a66d486-172c-4829-92a3-c30d320318f2.png)
+
+5.atletes, equip.
+
+![image](https://user-images.githubusercontent.com/113586080/225243677-5c79f217-259c-47fe-bf6d-3f509df1d9f7.png)
