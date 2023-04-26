@@ -62,6 +62,7 @@ Sense coneixer la classe Calculadora ens demanen fer un treball de documentació
 5. Exportar el codi del projecte a JAVA i a Python.
 6. Es pot utilitzar directament el codi generat a JAVA?
    Sí. 
+   
    ![image](https://user-images.githubusercontent.com/113586080/234494739-9d8c4724-30ce-4efd-be37-24fe67990e15.png)
 
 
