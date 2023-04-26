@@ -55,7 +55,8 @@ public class Main {
 
 Sense coneixer la classe Calculadora ens demanen fer un treball de documentació dels següents passos (link a un repositori públic de github on ho expliqueu):
 
-1. Crear la classe Calculadora a Umbrello.
+1. Crear la classe Calculadora a Umbrello. ![image](https://user-images.githubusercontent.com/113586080/234492319-312f7bba-38cf-4b34-bba0-306ea54ee750.png)
+
 2. A Umbrello afegir el codi de tots els mètodes de la classe Calculadora.
 3. Importar a Umbrello la classe Main (mitjançant assistent d'importació).
 5. Exportar el codi del projecte a JAVA i a Python.
