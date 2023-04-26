@@ -58,9 +58,15 @@ Sense coneixer la classe Calculadora ens demanen fer un treball de documentació
 1. Crear la classe Calculadora a Umbrello. ![image](https://user-images.githubusercontent.com/113586080/234492319-312f7bba-38cf-4b34-bba0-306ea54ee750.png)
 
 2. A Umbrello afegir el codi de tots els mètodes de la classe Calculadora.
+
+![image](https://user-images.githubusercontent.com/113586080/234495017-44bf3a17-1fc5-4a6c-8be2-7618de17f49c.png)
+
+He fet el mateix amb els altres mètodes.
+
 3. Importar a Umbrello la classe Main (mitjançant assistent d'importació).
-5. Exportar el codi del projecte a JAVA i a Python.
-6. Es pot utilitzar directament el codi generat a JAVA?
+4. Exportar el codi del projecte a JAVA i a Python.
+5. Es pot utilitzar directament el codi generat a JAVA?
+   
    Sí. 
    
    ![image](https://user-images.githubusercontent.com/113586080/234494739-9d8c4724-30ce-4efd-be37-24fe67990e15.png)
