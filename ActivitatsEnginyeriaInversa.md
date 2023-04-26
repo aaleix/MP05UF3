@@ -64,8 +64,91 @@ Sense coneixer la classe Calculadora ens demanen fer un treball de documentació
 He fet el mateix amb els altres mètodes.
 
 3. Importar a Umbrello la classe Main (mitjançant assistent d'importació).
+
+![image](https://user-images.githubusercontent.com/113586080/234495156-4198dcd7-b5ce-427b-b611-bf8536242ef1.png)
+
 4. Exportar el codi del projecte a JAVA i a Python.
-5. Es pot utilitzar directament el codi generat a JAVA?
+
+```
+
+
+/**
+ * Class Calculadora
+ */
+public class Calculadora {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public Calculadora () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+  /**
+   * @return       double
+   * @param        opsuma1
+   * @param        opsuma2
+   */
+  public double suma(double opsuma1, double opsuma2)
+  {
+    return opsuma1+opsuma2;
+  }
+
+
+  /**
+   * @return       double
+   * @param        opresta1
+   * @param        opresta2
+   */
+  public double resta(double opresta1, double opresta2)
+  {
+    return opresta1-opresta2;
+  }
+
+
+  /**
+   * @return       double
+   * @param        opmultiplicacio1
+   * @param        opmultiplicacio2
+   */
+  public double multiplicació(double opmultiplicacio1, double opmultiplicacio2)
+  {
+    return opmultiplicacio1*opmultiplicacio2;
+  }
+
+
+  /**
+   * @return       double
+   * @param        opdivisio1
+   * @param        opdivisio2
+   */
+  public double divisió(double opdivisio1, double opdivisio2)
+  {
+    return opdivisio1/opdivisio2;
+  }
+
+
+}
+
+```
+
+6. Es pot utilitzar directament el codi generat a JAVA?
    
    Sí. 
    
